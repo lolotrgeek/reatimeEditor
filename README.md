@@ -1,3 +1,4 @@
-# Real Time Editor
+# Real Time Editor - GUN
 
-https://blog.bitsrc.io/build-a-realtime-editor-using-socket-io-f11703afd55
+Gun is awesome, raw and powerful. Gotta be careful with gun.
+https://gun.eco/docs/Todo-Dapp#step=Deploy
